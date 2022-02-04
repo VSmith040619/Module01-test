@@ -8,7 +8,8 @@ h1{
 }
 
 p{
-    color:violet
+    color:violet;
+    border: solid rgb(240, 187, 187);
 
 }
 ul{
@@ -17,7 +18,19 @@ ul{
 
 hr{
     color: yellow;
+    width:50%;
 }
 
+ol{
+    color: teal;
+    background: rgb(224, 224, 176);
+}
+a{
+    color: rgb(206, 147, 38);
 
+}
 
+q{
+    color:seagreen;
+    
+}
