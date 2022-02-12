@@ -33,8 +33,21 @@ a{
     text-decoration: none;
     font-weight: 700;         
 }
+
+.link{
+    color: white;
+    background: rebeccapurple;
+    padding: 8px 15px;
+    margin-left: 10px;
+
+}
 ul > li {
     margin-right: 30px;    
+}
+
+ul > li:last-child{
+    margin-right: 0px;
+    
 }
 .box {
     display: flex;
